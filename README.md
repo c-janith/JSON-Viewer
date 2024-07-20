@@ -11,7 +11,7 @@ JSON Viewer is a simple web application that allows users to fetch and view JSON
 - **Dynamic Backend**: Hosted on Heroku to handle fetching data from external URLs securely.
 
 ## Live Demo
-- **Frontend**: [GitHub Pages Link](https://yourusername.github.io/yourrepository/)
+- **Frontend**: [GitHub Pages Link](https://c-janith.github.io/json-viewer/)
 - **Backend**: Hosted on Heroku (URL will be used internally by the frontend JavaScript)
 
 ## How It Works
@@ -23,3 +23,7 @@ JSON Viewer is a simple web application that allows users to fetch and view JSON
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
+2.**Navigate to the Project Directory**:
+   ```bash
+   sdsdsdsddv dfbdfbd
+dfgdfgdfgdf    fdgd
